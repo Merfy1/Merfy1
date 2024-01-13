@@ -27,7 +27,7 @@
 I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
 
-- :man_student: My Name Sasha, I'm 19 y.o I am a student at the Moscow Instrument Engineering College.
+- :man_student: My Name Sasha, I'm 20 y.o I am a student at the Moscow Instrument Engineering College.
 
 - :man_technologist: I am a beginner front-end developer
 
